@@ -1,0 +1,11 @@
+13/03/2025
+
+Première utilisation logiciel GitHub
+
+git init
+git remote add origin lien repository
+git add .
+git checkout -b "dev"
+git status
+git commit -m "init"
+git push origin dev
